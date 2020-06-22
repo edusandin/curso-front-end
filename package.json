@@ -1,0 +1,24 @@
+{
+  "name": "curso-front-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edusandin/curso-front-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edusandin/curso-front-end/issues"
+  },
+  "homepage": "https://github.com/edusandin/curso-front-end#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.5.1"
+  }
+}
